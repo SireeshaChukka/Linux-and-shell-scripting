@@ -12,6 +12,8 @@ total 16
 > bob@tom:~$ ls
 f  file  file1  file2
 
+ls → Lists files inside /home/user/documents
+ls ../ → Lists files inside /home/user/ (parent directory)
 > bob@tom:~$ ls /
 bin   etc   lib    libx32      mnt   root  snap  tmp
 boot  home  lib32  lost+found  opt   run   srv   usr
